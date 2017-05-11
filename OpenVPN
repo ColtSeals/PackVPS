@@ -398,7 +398,7 @@ elif [[ "$resposta" = '2' ]]; then
 	echo "esta senha não será usada."
     echo "-------------------------------------------"
 	echo " "
-	read -p "Digite a senha para o cliente $CLIENT: " -e -i r3v1v3r@ senha
+	read -p "Digite a senha para o cliente $CLIENT: " -e -i ColtSeals senha
 	usermod -p $(openssl passwd -1 $senha) $CLIENT
     clear
 	echo "----------------------------------"
