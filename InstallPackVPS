@@ -1,7 +1,7 @@
 #!/bin/bash
-##R3V1V3R VPS 
-##PackVPS 1.0
-##By: @judiba
+##NERDOLOGIA VPS 
+##MenuVPS 1.0
+##By: @ColtSeals
 
 corPadrao="\033[0m"
 preto="\033[0;30m"
@@ -49,7 +49,7 @@ echo -e "\033[1;30m-------------------------------------------------------------
 
 sleep 5
 
-tput setaf 8 ; tput setab 5 ; tput bold ; printf '%30s%s%-15s\n' "PACKVPS 1.0" ; tput sgr0
+tput setaf 8 ; tput setab 5 ; tput bold ; printf '%30s%s%-15s\n' "MENUVPS 1.0" ; tput sgr0
 echo ""
 echo ""
 echo -e "\033[1;34m INSTALANDO...\033[1;32m"
@@ -89,101 +89,103 @@ apt-get autoclear -y 1>/dev/null 2>/dev/null
 iptables -F
 
 clear
-wget https://raw.githubusercontent.com/judiba/Main/master/ConfAtual -O /bin/ConfAtual
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/ConfAtual -O /bin/ConfAtual
 chmod +x /bin/ConfAtual
 sed -i -e 's/\r$//' /bin/ConfAtual
 
-wget https://raw.githubusercontent.com/judiba/Main/master/monitorcpu -O /bin/CpuMonitor
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/monitorcpu -O /bin/CpuMonitor
 chmod +x /bin/CpuMonitor
 sed -i -e 's/\r$//' /bin/CpuMonitor
 
-wget https://raw.githubusercontent.com/judiba/Main/master/LimpadorCache -O /bin/ClearCache
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/LimpadorCache -O /bin/ClearCache
 chmod +x /bin/ClearCache
 sed -i -e 's/\r$//' /bin/ClearCache
 
-wget https://raw.githubusercontent.com/judiba/Main/master/usermonitor -O /bin/UserMonitor
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/usermonitor -O /bin/UserMonitor
 chmod +x /bin/UserMonitor
 sed -i -e 's/\r$//' /bin/UserMonitor
 
-wget https://raw.githubusercontent.com/judiba/Main/master/OpenUdp -O /bin/OpenUDP
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/OpenUdp -O /bin/OpenUDP
 chmod +x /bin/OpenUDP
 sed -i -e 's/\r$//' /bin/OpenUDP
 
-wget https://raw.githubusercontent.com/judiba/Main/master/TesteConexao -O /bin/SpeedTest
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/TesteConexao -O /bin/SpeedTest
 chmod +x /bin/SpeedTest
 sed -i -e 's/\r$//' /bin/SpeedTest
 
-wget https://raw.githubusercontent.com/judiba/Main/master/Banner -O /bin/Banner
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/Banner -O /bin/Banner
 chmod +x /bin/Banner
 sed -i -e 's/\r$//' /bin/Banner
 
-wget https://raw.githubusercontent.com/judiba/Main/master/UserBackup -O /bin/UserBackup
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/UserBackup -O /bin/UserBackup
 chmod +x /bin/UserBackup
 sed -i -e 's/\r$//' /bin/UserBackup
 
-wget https://raw.githubusercontent.com/judiba/Main/master/UserCreate -O /bin/UserCreate
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/UserCreate -O /bin/UserCreate
 chmod +x /bin/UserCreate
 sed -i -e 's/\r$//' /bin/UserCreate
 
-wget https://raw.githubusercontent.com/judiba/Main/master/script/UserClear -O /bin/UserClear
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/script/UserClear -O /bin/UserClear
 chmod +x /bin/UserClear
 sed -i -e 's/\r$//' /bin/UserClear
 
-wget https://raw.githubusercontent.com/judiba/Main/master/LimiterSSH -O /bin/LimiterSSH
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/LimiterSSH -O /bin/LimiterSSH
 chmod +x /bin/LimiterSSH
 sed -i -e 's/\r$//' /bin/ limiterSSH
 
-wget https://raw.githubusercontent.com/judiba/Main/master/MonitorTotal.sh -O /bin/MonitorTotal.sh
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/MonitorTotal.sh -O /bin/MonitorTotal.sh
 chmod +x /bin/MonitorTotal.sh
 
-wget https://raw.githubusercontent.com/judiba/Main/master/MudarLimite -O /bin/MudarLimite
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/MudarLimite -O /bin/MudarLimite
 chmod +x /bin/MudarLimite
 sed -i -e 's/\r$//' /bin/MudarLimite
 
-wget https://raw.githubusercontent.com/judiba/Main/master/MudarSenha -O /bin/MudarSenha
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/MudarSenha -O /bin/MudarSenha
 chmod +x /bin/MudarSenha
 sed -i -e 's/\r$//' /bin/MudarSenha
 
-wget https://raw.githubusercontent.com/judiba/Main/master/ConfVps -O /bin/ConfVPS
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/ConfVps -O /bin/ConfVPS
 chmod +x /bin/ConfVPS
 sed -i -e 's/\r$//' /bin/ConfVPS
 
-wget https://raw.githubusercontent.com/judiba/Main/master/MudarValidade -O /bin/MudarValidade
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/MudarValidade -O /bin/MudarValidade
 chmod +x /bin/MudarValidade
 sed -i -e 's/\r$//' /bin/MudarValidade
 
-wget https://raw.githubusercontent.com/judiba/Main/master/VNC -O /bin/VNC
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/VNC -O /bin/VNC
 chmod +x /bin/VNC
 sed -i -e 's/\r$//' /bin/VNC
 
-wget https://raw.githubusercontent.com/judiba/Main/master/UserDel -O /bin/UserDel
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/UserDel -O /bin/UserDel
 chmod +x /bin/UserDel
 sed -i -e 's/\r$//' /bin/UserDel
 
-wget https://raw.githubusercontent.com/judiba/Main/master/KernelControl -O /bin/KernelControl
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/KernelControl -O /bin/KernelControl
 chmod +x /bin/KernelControl
 sed -i -e 's/\r$//' /bin/KernelControl
 
-wget https://raw.githubusercontent.com/judiba/Main/master/DadosMonitor -O /bin/DadosMonitor
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/DadosMonitor -O /bin/DadosMonitor
 chmod +x /bin/DadosMonitor
 sed -i -e 's/\r$//' /bin/DadosMonitor
 
-wget https://raw.githubusercontent.com/judiba/Main/master/OpenVPN -O /bin/OpenVPN
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/OpenVPN -O /bin/OpenVPN
 chmod +x /bin/OpenVPN
 sed -i -e 's/\r$//' /bin/OpenVPN
 
-wget https://raw.githubusercontent.com/judiba/Main/master/tcptweaker.sh -O /bin/tcptweaker.sh
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/tcptweaker.sh -O /bin/tcptweaker.sh
 chmod +x /bin/tcptweaker.sh
 
-wget https://raw.githubusercontent.com/judiba/Main/master/PackVPS -O /bin/PackVPS
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/PackVPS -O /bin/PackVPS
 chmod +x /bin/PackVPS
 sed -i -e 's/\r$//' /bin/PackVPS
 
+cp /bin/PackVPS /bin/MenuVPS
+
 clear
 
-tput setaf 8 ; tput setab 5 ; tput bold ; printf '%30s%s%-15s\n' "PackVPS 1.0" ; tput sgr0
+tput setaf 8 ; tput setab 5 ; tput bold ; printf '%30s%s%-15s\n' "MenuVPS 1.0" ; tput sgr0
 echo ""
-echo -e OBS:    Digite - PackVPS - para acessar esse PACK
+echo -e OBS:    Digite - MenuVPS - para acessar esse Menu.
 echo -e Escolha uma opação:    Para Sair Ctrl + C
 echo -e "[00]\033[01;36m•====> ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS) \033[0m"
 echo -e "[01]\033[01;36m•====> Configurar (CONFIGURA A VPS|OpenSSH|SQUID|) \033[0m"
@@ -211,7 +213,7 @@ echo -e "[22]\033[01;36m•====> Security (Ativa e Desativa o Firewall e Torrent
 echo -e "[23]\033[01;36m•====> Netflix (Ativa o Hulu e DNS para NETFLIX)\033[0m"
 echo -e "[24]\033[01;36m•====> Dropbear (Ativa o Dropbear SSH para NETFLIX)\033[0m"
 echo -e "[25]\033[01;36m•====> TCPTweaker (Melhora a velocidade e desempenho da VPS)\033[0m"
-echo -e "[26]\033[01;36m•====> Desinstalar (Remove o PackVPS por completo)\033[0m"
+echo -e "[26]\033[01;36m•====> Desinstalar (Remove o MenuVPS por completo)\033[0m"
 
 read -p " Selecione uma opção [00-26]: " opcao
 
