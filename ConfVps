@@ -124,8 +124,8 @@ service ssh restart 1> /dev/null 2> /dev/null
 
 echo "
 ############
-#R3V1V3R VPS
-#by: judiba
+#NERDOLOGIA VPS
+#by: ColtSeals
 ############
 
 #PORTAS DE ACESSO NO SQUID
@@ -135,7 +135,7 @@ http_port $dns:8080
 #http_port 3128
 
 # Nome visivel da VPS
-visible_hostname $nome|R3V1V3RVPS
+visible_hostname $nome|NERDOLOGIAVPS
 
 ###Anonimato do PROXY SQUID
 forwarded_for off
@@ -241,8 +241,8 @@ sshd_config
 service ssh restart 1> /dev/null 2> /dev/null
 
 echo "############
-#R3V1V3R VPS
-#by: judiba
+#NERDOLOGIA VPS
+#by: ColtSeals
 ############
 
 #PORTAS DE ACESSO NO SQUID
@@ -378,8 +378,8 @@ service ssh restart 1> /dev/null 2> /dev/null
 
 echo "
 ############
-#R3V1V3R VPS
-#by: judiba
+#NERDOLOGIA VPS
+#by: ColtSeals
 ############
 
 #PORTAS DE ACESSO NO SQUID
@@ -494,8 +494,8 @@ service sshd restart 1> /dev/null 2> /dev/null
 
 echo "
 ############
-#R3V1V3R VPS
-#by: judiba
+#NERDOLOGIA VPS
+#by: ColtSeals
 ############
 
 #PORTAS DE ACESSO NO SQUID
@@ -611,8 +611,8 @@ sshd_config
 service sshd restart 1> /dev/null 2> /dev/null
 service ssh restart > /dev/null 2> /dev/null
 echo "############
-#R3V1V3R VPS
-#by: judiba
+#NERDOLOGIA VPS
+#by: ColtSeals
 ############
 
 #PORTAS DE ACESSO NO SQUID
