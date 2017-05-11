@@ -252,7 +252,7 @@ http_port $dns:8080
 #http_port 3128
 
 # Nome visivel da VPS
-visible_hostname $nome|R3V1V3RVPS
+visible_hostname $nome|NERDOLOGIAVPS
 
 ###Anonimato do PROXY SQUID
 forwarded_for off
@@ -389,7 +389,7 @@ http_port $dns:8080
 #http_port 3128
 
 # Nome visivel da VPS
-visible_hostname $nome|R3V1V3RVPS
+visible_hostname $nome|NERDOLOGIAVPS
 
 ###Anonimato do PROXY SQUID
 forwarded_for off
@@ -505,7 +505,7 @@ http_port $nome:8080
 #http_port 3128
 
 # Nome visivel da VPS
-visible_hostname $nome|R3V1V3RVPS
+visible_hostname $nome|NERDOLOGIAVPS
 
 ###Anonimato do PROXY SQUID
 forwarded_for off
@@ -622,7 +622,7 @@ http_port $nome:8080
 #http_port 3128
 
 # Nome visivel da VPS
-visible_hostname $nome|R3V1V3RVPS
+visible_hostname $nome|NERDOLOGIAVPS
 
 ###Anonimato do PROXY SQUID
 forwarded_for off
