@@ -5,10 +5,10 @@ echo Versao do seu sistema operacional: ${VERSION}
 echo ""
 echo "Configuração de Atualização"
 echo ""
-echo "        BY: @judiba"
-echo "        R3V1V3R VPS"
-echo "        Data de criação: 15/04/2017"
-echo "        Nome: PackVPS 1.0"
+echo "        BY: @ColtSeals"
+echo "        NERDOLOGIA VPS"
+echo "        NETFREE: FOREVER"
+echo "        Nome: MenuVPS 1.0"
 echo ""
 read -p "De enter para continuar..."
 clear
@@ -26,7 +26,7 @@ read -p "Escolha o numero da sua opção: " numero
 if [ "$numero" = "1" ]
 then
 clear
-echo '-----Script By @judiba-----'
+echo '-----Script By @ColtSeals-----'
 echo '--Ubuntu 14 para o Ubunutu 16--'
 apt-get install update-manager-core
 apt-get update -y 1>/dev/null 2>/dev/null
@@ -67,7 +67,7 @@ fi
 if [ "$numero" = "2" ]
 then
 clear
-echo '-----Script By @judiba-----'
+echo '-----Script By @ColtSeals-----'
 echo '------Para o Ubuntu 16-----'
 cat /etc/debian_version
 apt-get update -y 1>/dev/null 2>/dev/null
@@ -107,7 +107,7 @@ fi
 if [ "$numero" = "3" ]
 then
 clear
-echo '-----Script By @judiba-----'
+echo '-----Script By @ColtSeals-----'
 echo '-----Debian 7 para Debian 8'
 cat /etc/debian_version
 echo "Substituindo os repositorios..."
@@ -148,7 +148,7 @@ fi
 if [ "$numero" = "4" ]
 then
 clear
-echo '-----Script By @judiba-----'
+echo '-----Script By @ColtSeals-----'
 echo '------Para o Debian 8------'
 echo "Versão instalada"
 cat /etc/debian_version
@@ -195,7 +195,7 @@ fi
 if [ "$numero" = "5" ]
 then
 clear
-echo '-----Script By @judiba-----'
+echo '-----Script By @ColtSeals-----'
 echo '------Para o CentOS 6.8------'
 apt-get update -y 1>/dev/null 2>/dev/null
 apt-get upgrade -y 1>/dev/null 2>/dev/null
