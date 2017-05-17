@@ -3,56 +3,56 @@
 ##MenuVPS 1.0
 ##By: @ColtSeals
 
-echo -e "\033[0m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
-echo -e "\033[0;30m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
-echo -e "\033[0;31m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
-echo -e "\033[0;32m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
-echo -e "\033[0;33m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
-echo -e "\033[0;34m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
-echo -e "\033[0;35m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
-echo -e "\033[0;36m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
-echo -e "\033[0;37m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
-echo -e "\033[1;30m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
-echo -e "\033[1;31m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
-echo -e "\033[1;32m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
-echo -e "\033[1;33m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
-echo -e "\033[1;34m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
-echo -e "\033[1;35m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
-echo -e "\033[1;36m"ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
+echo -e "\033[0m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
+echo -e "\033[0;30m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
+echo -e "\033[0;31m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
+echo -e "\033[0;32m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
+echo -e "\033[0;33m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
+echo -e "\033[0;34m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
+echo -e "\033[0;35m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
+echo -e "\033[0;36m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
+echo -e "\033[0;37m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
+echo -e "\033[1;30m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
+echo -e "\033[1;31m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
+echo -e "\033[1;32m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
+echo -e "\033[1;33m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
+echo -e "\033[1;34m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
+echo -e "\033[1;35m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
+echo -e "\033[1;36m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
 
 
-echo  "\033[0m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
-echo  "\033[0;30m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
-echo  "\033[0;31m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
-echo  "\033[0;32m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
-echo  "\033[0;33m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
-echo  "\033[0;34m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
-echo  "\033[0;35m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
-echo  "\033[0;36m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
-echo  "\033[0;37m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
-echo  "\033[1;30m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
-echo  "\033[1;31m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
-echo  "\033[1;32m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
-echo  "\033[1;33m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
-echo  "\033[1;34m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
-echo  "\033[1;35m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
-echo  "\033[1;36m"ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
+echo  "\033[0m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
+echo  "\033[0;30m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
+echo  "\033[0;31m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
+echo  "\033[0;32m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
+echo  "\033[0;33m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
+echo  "\033[0;34m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
+echo  "\033[0;35m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
+echo  "\033[0;36m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
+echo  "\033[0;37m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
+echo  "\033[1;30m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
+echo  "\033[1;31m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
+echo  "\033[1;32m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
+echo  "\033[1;33m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
+echo  "\033[1;34m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
+echo  "\033[1;35m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
+echo  "\033[1;36m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)"
 
 
 
-echo -e "\033[0m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)'
-echo -e "\033[0;30m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)'
-echo -e "\033[0;31m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)'
-echo -e "\033[0;32m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)'
-echo -e "\033[0;33m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)'
-echo -e "\033[0;34m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)'
-echo -e "\033[0;35m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)'
-echo -e "\033[0;36m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)'
-echo -e "\033[0;37m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)'
-echo -e "\033[1;30m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)'
-echo -e "\033[1;31m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)'
-echo -e "\033[1;32m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)'
-echo -e "\033[1;33m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)'
-echo -e "\033[1;34m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)'
-echo -e "\033[1;35m" ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)'
-echo -e "\033[1;36m"ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)'
+echo -e "\033[0m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)'
+echo -e "\033[0;30m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)'
+echo -e "\033[0;31m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)'
+echo -e "\033[0;32m  ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)'
+echo -e "\033[0;33m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)'
+echo -e "\033[0;34m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)'
+echo -e "\033[0;35m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)'
+echo -e "\033[0;36m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)'
+echo -e "\033[0;37m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)'
+echo -e "\033[1;30m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)'
+echo -e "\033[1;31m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)'
+echo -e "\033[1;32m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)'
+echo -e "\033[1;33m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)'
+echo -e "\033[1;34m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)'
+echo -e "\033[1;35m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)'
+echo -e "\033[1;36m ConfAtual (CONFIGURAÇÃO DE ATUALIZAÇÃO DA VPS)'
