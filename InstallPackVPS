@@ -93,6 +93,9 @@ wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/ConfAtual -O /bi
 chmod +x /bin/ConfAtual
 sed -i -e 's/\r$//' /bin/ConfAtual
 
+wget https://raw.githubusercontent.com/ColtSeals/PackVPS/master/Criar -O /bin/Criar
+chmod +x /bin/Criar
+
 wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/monitorcpu -O /bin/CpuMonitor
 chmod +x /bin/CpuMonitor
 sed -i -e 's/\r$//' /bin/CpuMonitor
